@@ -16,5 +16,5 @@ Each snippet demonstrates a key programming concept in a clear and easy-to-under
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MuhammadMinhaj22/python-snippets.git
+git clone https://github.com/MuhammadMinhaj22/Python-snippets.git
 cd python-snippets
